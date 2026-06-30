@@ -1,0 +1,4 @@
+Extract this ZIP.
+Upload the CONTENTS of this folder to the root of the GitHub repository beardo-sid.github.io.
+The repository root must contain index.html and the assets folder side-by-side.
+Do not upload this ZIP file itself.

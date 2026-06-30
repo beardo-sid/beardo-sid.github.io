@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beardo-sid.github.io/sitemap.xml
